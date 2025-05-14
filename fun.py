@@ -1,2 +1,2 @@
-def soma(a, b):
+def subtraia(a, b):
     return a + b
